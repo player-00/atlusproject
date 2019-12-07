@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'The Atlas Project'
 SITENAME = 'The Atlas Project'
-SITEURL = ''
+SITEURL = 'https://theatlasproject.org/'
 
 PATH = 'content'
 
@@ -73,5 +73,5 @@ SITELOGO_SIZE = '32'
 FAVICON = 'img/favico.png'
 
 #Cache Settings
-CACHE_CONTENT = False
-LOAD_CONTENT_CACHE = False
+#CACHE_CONTENT = False
+#LOAD_CONTENT_CACHE = False
